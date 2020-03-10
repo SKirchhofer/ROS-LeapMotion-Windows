@@ -23,4 +23,4 @@ rosrun ros_leapmotion leapmotion_node
 The node **leapmotion_node** sends **leapmsg** messages on the **leapmotion_raw** topic.
 The content of the message can be found in the folder "ros_leapmotion/msg".
 
-If you want to get more information from the leapmotion, you might want to modify the file "ros_leapmotion/src/sender.cpp". 
+If you want to get more informations from the leapmotion, you might want to modify the file "ros_leapmotion/src/sender.cpp". 
