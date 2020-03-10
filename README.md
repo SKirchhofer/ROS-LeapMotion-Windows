@@ -4,8 +4,9 @@ ros_leapmotion is a ROS package for the Leap Motion on Windows
 ## General informations
 
 It is based on the Leap Motion SDK 4.0.0. Tested on windows 10 x64 with ROS Melodic and Leap Motion SDK 4.0.0+52173.
+
 The ROS message associated to the Leap Motion contains the euclidian coordinates of the hand joints.
-The package is based on the C library from the SDK, faster than previous leapmotion libraries.
+
 
 ## How to use it
 
